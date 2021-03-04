@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.thread;
 
 import java.util.Objects;
 import java.util.concurrent.TimeUnit;
